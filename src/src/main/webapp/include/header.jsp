@@ -10,7 +10,7 @@
 <body>
 <div style="background-color:cadetblue;text-align: center">
     <br>
-    <h3>Prog43431 - Final Exam</h3>
+    <h3>Prog43431</h3>
     <h3>Student Name: XXXX</h3>
     <h3>Student ID: YYYY</h3>
     <br>
