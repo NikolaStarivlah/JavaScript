@@ -1,0 +1,2 @@
+This application allows a user to plan his summer on a javascript webpage with a simple form. The users plans are processed in the servlet and stored into a database, the activityDAO class
+allows for the user to search for there plan and returns result.
